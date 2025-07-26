@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "fx-admin-panel",
   "version": "1.0.0",
   "private": true,
@@ -18,7 +17,7 @@
     "@emotion/styled": "11.11.4",
     "swr": "2.2.4"
   }
-=======
+
   "name": "fx-cobra-x-bot",
   "version": "1.0.0",
   "description": "WhatsApp bot for Fx Cobra X services",
@@ -54,5 +53,4 @@
   ],
   "author": "",
   "license": "ISC"
->>>>>>> f8b918b7fc0009b19e5ccccd242d179d5c5be345
 }
